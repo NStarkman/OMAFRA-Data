@@ -2,6 +2,8 @@
 
 **** Mariaelisa Polsinelli for OMAFRA, 2022 *****
 
+***This readme is outdated. To understand how to properly run the codebase, read the provided VCR Data Guidelines document given with the link to this codebase***
+
 ***The files below should be run in the listed order and will be if executing the update_dashboard_files.bat - be sure to update .bat file with the respective file paths on your computer***
 
 **running 3.update_vcr_dashboard.R before running 1. and 2. may result in errors**
