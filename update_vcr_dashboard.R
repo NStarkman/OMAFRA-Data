@@ -2,7 +2,7 @@
 #Update .csv data file to be used with ONVegetables Blog PowerBI weather dashboard
 #Run Download_climate_2.0.py and download_nasapowerfiles.R prior to using
 #all files should be contained in the same working directory
-#Created by Mariaelisa Polsinelli for OMAFRA, 2022
+#Created by Mariaelisa Polsinelli for OMAFRA, 2022, updated by Nathan Starkman, 2023
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 if (!require("tidyverse")){
   install.packages("tidyverse")

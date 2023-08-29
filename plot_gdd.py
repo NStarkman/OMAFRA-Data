@@ -1,3 +1,9 @@
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Parses and graphs all of the Growing Degree Day data for every county and puts  
+# the graphs in a folder called GDD Graphs to be used for the weekly VCR.
+# Can be run once a week afterthe vcr_dashboard_data file has been updated.
+#Created by Nathan Starkman for OMAFRA, 2023
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 import datetime
 import pandas as pd
 import seaborn as sns

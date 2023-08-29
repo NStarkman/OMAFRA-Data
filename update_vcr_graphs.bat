@@ -8,6 +8,9 @@ echo 'Create GDD Graphs'
 rem Run the Python GDD script
 py "C:\Users\StarkmNa\Documents\Code\OMAFRA-main\plot_gdd.py"
 
+echo 'Create Threshhold Table'
+rem Run html script
+py "C:\Users\StarkmNa\Documents\Code\OMAFRA-main\html_gen.py"
 
 echo 'update complete'
 

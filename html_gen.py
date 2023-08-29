@@ -1,3 +1,8 @@
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Creates an html document filled with the specifications for a table displaying
+# the pest data for each county in the list to be put in the weekly postings.
+#Created by Mariaelisa Polsinelli for OMAFRA, 2022 and Nathan Starkman for OMAFRA, 2023
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 import csv
 import datetime
 import matplotlib.pyplot as plt
