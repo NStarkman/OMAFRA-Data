@@ -136,6 +136,6 @@ for county_name in ordered_counties:
 wp_table = wp_table + table_end
 print(wp_table)
 
-html_file_path = "C:/Users/StarkmNa/Documents/Code/OMAFRA-main/pest_table.html"
+html_file_path = "C:/Users/StarkmNa/Documents/Code/OMAFRA-main/pest_table.txt"
 with open(html_file_path, "w") as html_file:
     html_file.write(wp_table)
